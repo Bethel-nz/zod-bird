@@ -1,6 +1,6 @@
 {
   "name": "@chronark/zod-bird",
-  "version": "dev",
+  "version": "0.1.2-dev.1",
   "description": "",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
